@@ -1,4 +1,8 @@
-![My Image](image\Image.png)
+# Project
+
+Project of a clone from LinkedIn following the steps of https://www.youtube.com/@SonnySangha made using ReactJS, Redux and Firebase!
+
+On the root of the project you can find a image of the final product.
 
 # Getting Started with Create React App and Redux
 
