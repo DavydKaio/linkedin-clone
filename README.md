@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-![My Image](image/Opera Instantâneo_2022-12-26_232222_linkedin-clone-8c8d2.web.app.png)
+![My Image](image\Image.png)
 
 # Getting Started with Create React App and Redux
 
