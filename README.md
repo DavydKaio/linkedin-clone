@@ -2,7 +2,7 @@
 
 Project of a clone from LinkedIn following the steps of https://www.youtube.com/@SonnySangha made using ReactJS, Redux and Firebase!
 
-On the root of the project you can find a image of the final product.
+Here the link to the app: https://linkedin-clone-8c8d2.web.app
 
 # Getting Started with Create React App and Redux
 
